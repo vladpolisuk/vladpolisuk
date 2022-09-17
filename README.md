@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="gif" align="center">
+  <img src="https://media.giphy.com/media/feOLsVVsYft04/giphy.gif" width="500"></img>
+</div>
 
-<!--
-**vladislav124352/vladislav124352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/vladislav124352">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.vk.com/vladislav124352">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+  <a href="https://t.me/vladislav124352">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <em>It's coding time!</em>
+  <img src="https://media.giphy.com/media/jrbaKhbSdoA5RrtXuw/giphy.gif" width="50px"/>
+</h1>
