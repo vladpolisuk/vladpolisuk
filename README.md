@@ -46,5 +46,3 @@
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladislav124352&theme=black-ice&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav124352&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
