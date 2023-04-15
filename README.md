@@ -5,7 +5,7 @@
 <ul>
 	<li>Building web applications with React, Next.js, and TypeScript</li>
 	<li>Implementing responsive design and optimizing performance</li>
-	<li>Backend development using Express and PostgresQL</li>
+	<li>Backend development using Express and PostgreSQL</li>
 	<li>Collaborating effectively within a team</li>
 	<li>Writing tests for code quality assurance</li>
 	<li>Understanding internet fundamentals and protocols</li>
