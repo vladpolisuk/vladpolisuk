@@ -21,6 +21,13 @@
 	<li>Continuous Integration and Continuous Deployment (CI/CD)</li>
 </ul>
 
+<h2>❤️ Favorite GitHub Repos:</h2>
+<ol>
+	<li><a target="_blank" href="https://github.com/vladpolisuk/doom-ru-client">Real Estate App</a></li>
+	<li><a target="_blank" href="https://github.com/vladpolisuk/messenger-client">Messenger App</a></li>
+	<li><a target="_blank" href="https://github.com/vladpolisuk/weather-app">Weather App</a></li>
+</ol>
+
 <h2>📫 Get in touch:</h2>
 <p>Feel free to reach out if you have any questions or want to collaborate on a project!</p>
 
