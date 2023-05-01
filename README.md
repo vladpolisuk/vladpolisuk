@@ -34,8 +34,8 @@
 <h2>❤️ Favorite GitHub Repos:</h2>
 <ol>
 	<li><a target="_blank" href="https://github.com/vladpolisuk/doom-ru-client">Real Estate App</a></li>
-	<li><a target="_blank" href="https://github.com/vladpolisuk/messenger-client">Messenger App</a></li>
 	<li><a target="_blank" href="https://github.com/vladpolisuk/weather-app">Weather App</a></li>
+	<li><a target="_blank" href="https://github.com/vladpolisuk/calendar-app">Calendar App</a></li>
 </ol>
 
 <h2>📫 Get in touch:</h2>
