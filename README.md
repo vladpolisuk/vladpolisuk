@@ -11,7 +11,3 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-- Приложение календаря ([ссылка](https://github.com/vladpolisuk/calendar-app))
-- Приложение погоды ([ссылка](https://github.com/vladpolisuk/weather-app))
-- Приложение шахматы ([ссылка](https://github.com/vladpolisuk/chess-app))
